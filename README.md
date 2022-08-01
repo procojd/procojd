@@ -1,7 +1,7 @@
 ## Hi,there👋
 Hi, I’m jatin dayal
 I’m interested in app dev,video editing,drawing.
-I’m currently learning machine learning
+I’m currently learning frontend development
 
 [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=procojd)](https://github.com/procojd/github-readme-stats)
 
