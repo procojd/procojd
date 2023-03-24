@@ -5,8 +5,9 @@ I am about to finish the final year of my college and have good foundations in a
 
 I have done several projects if android development in flutter.
 
-
-[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=procojd)](https://github.com/procojd/github-readme-stats)
+<!-- 
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=procojd)](https://github.com/procojd/github-readme-stats) -->
+![jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=procojd&show_icons=true&theme=transparent)
 
 <!---
 procojd/procojd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
