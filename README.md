@@ -1,7 +1,10 @@
 ## Hi,there👋
 Hi, I’m jatin dayal
-I’m interested in app dev,video editing,drawing.
-I’m currently learning frontend development
+
+I am about to finish the final year of my college and have good foundations in all my subjects. Not only do I think outside of the box but I am also a quick learner.
+
+I have done several projects if android development in flutter.
+
 
 [![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=procojd)](https://github.com/procojd/github-readme-stats)
 
