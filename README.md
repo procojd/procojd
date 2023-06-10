@@ -5,7 +5,7 @@ I am about to finish the final year of my college and have good foundations in a
 
 I have done several projects if android development in flutter.
 
-<!-- 
+
 ![jatin's github stats](https://github-readme-stats.vercel.app/api?username=procojd)
 
 <!---
